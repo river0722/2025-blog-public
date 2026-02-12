@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "KKraven",
-		"description": "河妖的个人博客，用于记录项目经历，整理项目版本，分享嵌入式学习经验，更新代码仓库。",
-		"username": "RIVER"
+		"title": "YYsuni",
+		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "Suni"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -47,6 +47,13 @@
 			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 3
+		},
+		{
+			"id": "juejin",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/2427311675422382",
+			"label": "稀土掘金",
+			"order": 2
 		},
 		{
 			"id": "email",
